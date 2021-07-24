@@ -1,0 +1,18 @@
+dist/
+
+# Compiled Python bytecode
+*.py[cod]
+
+# Log files
+*.log
+
+# common virtual env name
+venv
+
+# project generated files
+*.zip
+*.egg-info
+__pycache__
+htmlcov
+.coverage
+.mutmut-cache
