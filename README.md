@@ -1,5 +1,10 @@
 # Report Portal Agent for nose2
 
+![Build Status](https://github.com/diegorubin/nose2-reportportal-agent/workflows/Report%20Portal%20Agent%20For%20Nose2%20CI/badge.svg)
+![Agent Publish](https://github.com/diegorubin/nose2-reportportal-agent/workflows/Agent%20Publish/badge.svg)
+[![PyPI version](https://badge.fury.io/py/nose2-reportportal-agent.svg)](https://badge.fury.io/py/nose2-reportportal-agent)
+[![SourceLevel](https://app.sourcelevel.io/github/diegorubin/-/nose2-reportportal-agent.svg)](https://app.sourcelevel.io/github/diegorubin/-/nose2-reportportal-agent)
+
 ## Install
 
 Use pip:
