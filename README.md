@@ -30,4 +30,4 @@ launch_attributes = 'Unit'
 launch_description = 'Unit Tests'
 ```
 
-Run nose2 with parameter `-rp`.
+Run nose2 with parameter `--rp`.
